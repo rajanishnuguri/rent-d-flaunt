@@ -1,18 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-
+import NavBar from './components/NavBar';
+import ActionCard from './components/ActionCard';
+import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Rent-d-Flaunt
-
-          coming soon....
-        </p>
-        
-      </header>
+      <NavBar/>
+      <ActionCard/>
+      <Footer id="contactView" />
     </div>
   );
 }

@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .logo-name {
+    font-weight: 700;
+    font-size: 30px;
+    font-family:   Agustina Regular ; 
+	
+}
+  
+  li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+  }
+  .menu{
+    float: right;
+  }
+  a{
+    text-decoration:none;
+    padding: 5px 10px 5px 10px;
+    color: #ffffff;
+    }
+  

@@ -1,0 +1,21 @@
+
+img{
+    height: 400px;
+    width: 300px;
+}
+.column {
+    margin-left: 5%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    float: left;
+    background-color: black;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  }
+  .row{
+    align-items: center;
+  }
+  .card{
+    background-color: white;
+  }
+  
